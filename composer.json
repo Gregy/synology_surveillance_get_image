@@ -1,0 +1,5 @@
+{
+    "require": {
+        "cache/filesystem-adapter": "^1.1"
+    }
+}
